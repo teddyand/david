@@ -1,4 +1,4 @@
-#个人简历
+# 个人简历
 ---------------------                                           
 **姓名**:陈建哲  
 
@@ -31,10 +31,10 @@
 负责BJM14M医疗电子加速器上位机控制程序的维护与编写工作
 
 
-##教育经历：  
+## 教育经历：  
 **1995.9-1999.7  北京信息科技大学（原北京机械工业学院）工业电气自动化专业 获得学士学位**   
 
-##其他社会经历：  
+## 其他社会经历：  
 2002.03 - 2002.04 	英语六级培训  
 2005.05-2005.08  新概念英语第三册培训  
 2007.04 － 2007.05	北大青鸟 软件测试 软件测试用例 C语言程序设计 接受培训
@@ -42,7 +42,7 @@
 
 ![webwxgetmsgimg.jpg](https://upload-images.jianshu.io/upload_images/4461933-f7e0e65fac413b07.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-##个人素质：  
+## 个人素质：  
 - 具有基本的英文阅读和写作翻译能力：  
 >Keil MDK Version 5 is the latest release of our complete software development environment for a wide range of ARM Cortex-M based microcontroller devices. MDK includes the µVision IDE/Debugger, ARM C/C++ Compiler, and essential middleware components. It's easy to learn and use.  
 >Keil MDK 5是最新的基于 ARM Cortext-M 微处理器设备的大范围完整的软件开发环境。MDK包括 µVision 用户开发调试环境 ARM C/C++ 编译器，和基本中间件。易于使用和学习。  
