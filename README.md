@@ -77,7 +77,7 @@
     + [自学python语言](https://github.com/teddyand/david)
     + [两轮小车电路图:](https://github.com/teddyand/balance-vehicle)完成中...
     <!--:+ 个人借阅[my_book](https://github.com/teddyand/conda)兴趣数据分析完成中...-->
-    <!--:+ 卡尔曼滤波,贝叶斯统计,傅立叶滤波,PID [algorithm](https://github.com/teddyand/david)熟悉中...-->
+    + 卡尔曼滤波,贝叶斯统计,傅立叶滤波,PID [algorithm](https://github.com/teddyand/david)熟悉中...
     + [室内温湿度监测仪](https://www.jianshu.com/p/11808de7922f)
     + 自学意大利语(筹划中...)
     
