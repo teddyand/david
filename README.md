@@ -75,6 +75,7 @@
     + 创客工具制作，可调速手工钻，PIC单片机器编程器制作。完成了创客工作的机械粗加工和程序录入。
     + Led旋转广告灯的制作(制作中...)。
     + [自学python语言](https://github.com/teddyand/david)
+    + [django博客](http://godsaveme.applinzi.com/)
     + [两轮小车电路图:](https://github.com/teddyand/balance-vehicle)完成中...
     <!--:+ 个人借阅[my_book](https://github.com/teddyand/conda)兴趣数据分析完成中...-->
     + [个人借阅my_book](https://github.com/teddyand/conda)兴趣数据分析完成中...
