@@ -40,7 +40,6 @@
 2007.04 － 2007.05	北大青鸟 软件测试 软件测试用例 C语言程序设计 接受培训
 2006.3-2007.3  中科院计算与通信工程学院  控制工程硕士,主研嵌入式系统设计,并对数据科学与物联网控制产生兴趣.入学成绩排位前66%.
 
-![webwxgetmsgimg.jpg](https://upload-images.jianshu.io/upload_images/4461933-f7e0e65fac413b07.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 个人素质：  
 - 具有基本的英文阅读和写作翻译能力：  
@@ -75,7 +74,7 @@
     + 创客工具制作，可调速手工钻，PIC单片机器编程器制作。完成了创客工作的机械粗加工和程序录入。
     + Led旋转广告灯的制作(制作中...)。
     + [自学python语言](https://github.com/teddyand/david)
-    + [django博客](http://godsaveme.applinzi.com/)
+    + [个人博客](http://teddyand.github.io/)
     + [两轮小车电路图:](https://github.com/teddyand/balance-vehicle)完成中...
     <!--:+ 个人借阅[my_book](https://github.com/teddyand/conda)兴趣数据分析完成中...-->
     + [个人借阅my_book](https://github.com/teddyand/conda)兴趣数据分析完成中...
