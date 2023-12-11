@@ -1,102 +1,43 @@
-# 个人简历
----------------------                                           
-**姓名**:陈建哲  
-
-**性别**:男  
-
-**生日**：1977年4月29日  
-
-**电话**：18201486521
-
-**邮箱**：*davidchen1977@live.com*
-
-## 工作经历： 
-**2005.3-今:自由职业.**
-
-*2013.9-2013.11北京强中酒业有限公司销售助理* 
-销售数据的收集整理备份工作，以备进行公司销售大数据的分析。工作过程中建立数据分析采集站，准备数据分析模板。数据库软件分析和加密方法试验，硬件采购。
-
-*2008.9-2008.11航空航天大学可靠性实验室试验员*
-负责航空仪器设备的可靠性试验管理，包括前期的试验准备（工装台上夹具，水电气路的检测调试），试验中期的值班监测数据（向试验设计人员报告进度及异常情况，试验用材的充填），试验后期的设备保养维护，整理打扫工作
-
-*2005.10 送水给外国语学院某系并帮助老板收帐.
-
-**2004.2-2005.2大唐高鸿股份有限公司 中试生产工程师**  
-负责交换机 am100 as800 as1000的出厂检验，保证品质符合国标出厂要求，过程中收集各项技术文档，并保存至服务器，供查询。自建文档服务器，并网络共享。
-
-**2002.5-2003.12:集世精华公司 研发工程师**  
-负责嵌入式工控系统板卡改造维护升级并致力于实现WINCE环境下嵌入组态软件与硬件的系统集成以实现PLC功能。
-
-**1999.9-2001.11:医疗器械研究所 程序技术员**  
-负责BJM14M医疗电子加速器上位机控制程序的维护与编写工作
 
 
-## 教育经历：  
-**1995.9-1999.7  北京信息科技大学（原北京机械工业学院）工业电气自动化专业 获得学士学位**   
+## 2023大卫的创客工厂年终项目总结——拉清单
+立冬之后是小雪，今年总结提前写！！疫情这三年创客项目可圈可点，鉴于[试玉行动](https://teddyand.github.io/2022-07-16/jadeI)的原则——利用现有资源开展创客项目体验。将过往的创客项目列具清单以供后继展开可持续研究。
 
-## 其他社会经历：  
-2002.03 - 2002.04 	英语六级培训  
-2005.05-2005.08  新概念英语第三册培训  
-2007.04 － 2007.05	北大青鸟 软件测试 软件测试用例 C语言程序设计 接受培训
-2006.3-2007.3  中科院计算与通信工程学院  控制工程硕士,主研嵌入式系统设计,并对数据科学与物联网控制产生兴趣.入学成绩排位前66%.
+### 项目
+1. wechaty[^1]项目：是一个聊天机器人对话项目，该项目可以外挂于微信平台，通过一些条件甚至算法触发微信相关事件（推送图文、语音、视频消息;）支持多人群聊<!--more-->，智能对话，消息处理等功能。你可以通过6行代码，搭建一个聊天机器人。应用到nodejs、typescript、....等技术，具有javascript技术的人可以较顺利实现所需功能。该项目是一些具有留学背景的人利用业余时间开发起来的，并在国内实现了项目众筹，引起业界关注。但是目前似乎正被微信平台的智能推荐功能所取代，但不失为一个软件程序员学习typescript项目的很好的练手起始平台，但是每个月200元的token费用及服务器租用金（各平台不同）有些让人望而却步。
+
+2. espruino[^2]、micripython[^3]、arduino mblog、codecraft[^4]多语言控制智能车项目:在当前习近平主席出访美国旧金山参加23年度APEC会议的大背景下，主席强调的开放的大门只会继续打开而不会关闭的当下。该项目具有STEM教育的特色，结合blockly[^5]、Mixly[^6]——青少年图形化编程入门及算法思维养成的传习。在寓教于学中可以让青少年建立起计算思维、了解多种程序语言、具备模块化硬件知识、增强动手能力、强化抽象思维与发散型工程化思维能力。是AI时代最好的stem教学手段。
+
+3. 大数据与算法：作为一个初级程序员水平的创客，一直对算法爱恨交织，到底具有什么样的数学水平才是一个合格程序员应该具备的良好素质。鉴于此创客希望从一个入门级的水平来从新审视自己或者对后来有志于此的人提供一个参照。
+
+4. gollum[^7] wiki博客平台搭建：配合pandoc软件及github.io博客及自媒体平台（微信公众号等）起到卡片笔记写作的功能，将各种文档写作碎片化并专业化
+
+5. 文学作品阅读：阅读了多部名人传记《纳什》《冯.诺依曼》《狄更斯》《歌德》相关文学作品《远大前程》《大卫.科博菲尔》（中/英）《九三年》英文版从而引起对维多利亚时代，法国大革命时代文学家及其作品的兴趣，继而对写作发生兴趣。准备继续阅读《双城记》《悲惨世界》《教授与疯子》从而完成对人性救赎、勇气、父权、科学与革命共同体概念等问题的思考。
 
 
-## 个人素质：  
-- 具有基本的英文阅读和写作翻译能力：  
->Keil MDK Version 5 is the latest release of our complete software development environment for a wide range of ARM Cortex-M based microcontroller devices. MDK includes the µVision IDE/Debugger, ARM C/C++ Compiler, and essential middleware components. It's easy to learn and use.  
->Keil MDK 5是最新的基于 ARM Cortext-M 微处理器设备的大范围完整的软件开发环境。MDK包括 µVision 用户开发调试环境 ARM C/C++ 编译器，和基本中间件。易于使用和学习。  
-> The first part of this book introduces the mathematical concepts and foundations needed to talk about the three main components of a machine learning system: data, models, and learning
->书的第一部分介绍了机器学习的三个主要成分：数据，模型，和学习的数学观念和基础
->For example, the word “algorithm” is used in at least two different senses in the context of machine learning. In the first sense, we use the phrase “machine learning algorithm” to mean a system that makes predictions based on input data
->比如，“算法”一词在机器学习语境中具有两种不同的意义。第一种意义，我们使用“机器学习算法”短语来表示基于输入数据的系统预测
->In the second sense, we use the exact same phrase “machine learning algorithm” to mean a system that adapts some internal parameters of the predictor so that it performs well on future unseen input data
->第二种语意，我们使用相同的短语“机器学习算法”表示系统采用预测机内部参数来更好的展现未知输入数据的性能
+### 项目列表
 
-- 了解多种语言的应用场景与开发环境的搭建
-    + C:具有两年的C语言程序维护调试经验熟悉DOS环境下图形化编程，及C51 pic avr单片机及相关      接口（I2C SPI）外围芯片(DS18B20 Ds1302 AT24C02....)的驱动  
+| 项目 | 程度描述 | 举例 | 参考书目 | 
+| ------ | ------ | ------ | ------ |
+| wechaty | [入门视频](https://v.qq.com/x/page/k0726ho4rce.html)、[本地运行起步](https://wechaty.js.org/docs/getting-started/running-locally) 通过[localtunel](https://localtunnel.github.io/www/)开放本机端口运行微信[official-account](https://github.com/wechaty/puppet-official-account)服务器 | [人月神话](https://teddyand.github.io/2022-11-12/robot-rudiment)、[javascript](https://teddyand.github.io/2022-09-16/nodejs-scraper) | [博客:应用文章](https://wechaty.js.org/blog/)、[wechaty 公众号开发](https://wechaty.js.org/2020/11/01/wechaty-puppet-oa-released/) |
+| 智能车 |  | [项目repo](https://github.com/teddyand/balance-vehicle)、[app制作](https://teddyand.github.io/2021-11-13/cordova-framework)、 [愿景](https://teddyand.github.io/2021-12-11/%E6%99%BA%E8%83%BD%E8%BD%A6PID)| {% cite JiLiJin2019 MaSiLuoFu2022 LeiXueTang2022 esp8266_2018 -f stem_education %}  |
+| 大数据与算法 | 算法即神秘由高深似乎影响这我们的生活，如何将算法从生活中提炼又作用于生活是一个程序员对自我修养的高级要求 | [文1](https://mp.weixin.qq.com/s?__biz=MzU4MTQ3OTE1NQ==&mid=2247484886&idx=6&sn=ffc94bd6f489ccfcd5b7d081c3998113&chksm=fd47ba4aca30335c4c38c7abadd8a8d848c95de434644430dd02bd8772f0fa3602f8559347ff&token=329935964&lang=zh_CN#rd)、[文2](https://mp.weixin.qq.com/s?__biz=MzU4MTQ3OTE1NQ==&mid=2247484886&idx=4&sn=160b872b4362a5e746fbf2d926c3a49a&chksm=fd47ba4aca30335c737514a382a50ed66957539016faf3b1dcd2f3007f3ff4f519b8e7142d8d&token=564283773&lang=zh_CN#rd) | {% cite Blockly2023a 2022a mind2022  -f stem_education %} |
+| 温湿度监控 | 在例文的基础上希望实现esp8266+node.js 后台数据库方式实现现多点网络温度监控,进一步对esp32、esp8266的开发环境做深入了解 | [一个温湿度监控项目](https://www.jianshu.com/p/11808de7922f) | {% cite esp8266_2018  -f stem_education%} |
+| django网站 |一个部署与新浪云的博客，熟悉python语言与Django框架的个人笔记博客每次充值云豆对于使用数据库的内容极其消耗云豆（每次充值10RMB）不经访问，因此考虑经济允许条件下租用服务器加域名的方式（已完成）|[repo](https://github.com/teddyand/django_on_SAE/tree/master)||
+| 我的wiki与博客 | [博客](https://teddyand.github.io/)、[维基](https://github.com/teddyand/david/wiki/) |  [论文1](https://mp.weixin.qq.com/s?__biz=MzU4MTQ3OTE1NQ==&mid=2247484379&idx=5&sn=2d65b110f7c822fcdd3263ccc97077d4&chksm=fd47bc47ca303551cae9e45248dd47acdc1e1d85169a851c8a74bd4e7af792ac08f18e200183&token=1004565564&lang=zh_CN#rd) | {% cite card_note2021 SaWeiQi2021 %} |
+| 我的阅读 |  | [笔记1](https://teddyand.github.io/2023-03-03/scientific-genius-von)、[笔记2](https://teddyand.github.io/2023-02-05/beautiful-mind(1))、[笔记3](https://mp.weixin.qq.com/s?__biz=MzU4MTQ3OTE1NQ==&mid=2247484886&idx=7&sn=b286c185d71a2d55d4611d4351747b8f&chksm=fd47ba4aca30335cdb5f809e12331b79efc935a86def149832a52b59ffa0fc13c855c7048714&token=329935964&lang=zh_CN#rd) | {% cite 2022a_p 2022_p DiGengSi2019 LiuSongChu2023 Nuo2000 %} |
 
-    + C++:在用C语言工作的同时自学C++语言，为以后看懂arduino代码打下基础 并会使用VS studio  G++ C++ build  等编译器
 
-    + php:由于在工作中需要搭建文档服务器，进而对PHP语言产生兴趣，自学了wordpress+mysql微博搭建，会在不同环境下搭建（linux/windows）
 
-    + python（perl）:由于长期对计算机语言的阅读，逐渐对计算机语言产生兴趣，自主学习了新型脚本编辑语言perl python 并对大数据及人工智能及其算法有所了解
 
-    + 其他：长期的实践过程中还接触过markdown html java VHDL CPLD FPGA arduino 等多种语言和硬件
+### Reference1
 
-- 会使用的软件及操作系统：
-    + protel eagles proteus 绘制电路图软件
-    + word 简单文字处理
-    + excel 简单表格数据处理
-    + 可以linux/window下完成日常工作
-    + photoshop gim完成简单图像的处理格式转换。
 
-- 个人项目经历：
-    + 创客工具制作，可调速手工钻，PIC单片机器编程器制作。完成了创客工作的机械粗加工和程序录入。
-    + Led旋转广告灯的制作(制作中...)。
-    + [自学python语言](https://github.com/teddyand/david)
-    + [个人博客](http://teddyand.github.io/)
-    + [两轮小车电路图:](https://github.com/teddyand/balance-vehicle)完成中...
-    <!--:+ 个人借阅[my_book](https://github.com/teddyand/conda)兴趣数据分析完成中...-->
-    + [个人借阅my_book](https://github.com/teddyand/conda)兴趣数据分析完成中...
-    + [卡尔曼滤波,贝叶斯统计,傅立叶滤波,PID algorithm](https://github.com/teddyand/algo-math)熟悉中...
-    + [室内温湿度监测仪](https://www.jianshu.com/p/11808de7922f)
-    + 自学意大利语(筹划中...)
-    
-- 兴趣爱好：
-    + Maker     
-    + 读书    
-*附：在校期间成绩*  
-
-| 学科 |成绩| 学科 |成绩|学科|成绩|
-| :---   |  :---:   | :--- | :---:  | :---- | :----: |
-| 高等数学    |  72     |  数字电路   | 90  |英语| 82|
-| 制图    |  90     |  电子实习   |  74 | C语言 | 70 |  
-|微机基础|81 |数据库 | 78 |微机控制|85|  
-|哲学|80|电机拖动|78|单片机原理|87|
-|金工实习|84|电器控制|90|数字仿真|73|  
-|物理|82|物理试验|73|直流调速|78|  
-|复变函数|82|变流技术|88|检测技术|73|  
-|积分变换|84|自动控制|81|交流调速|73|
-|计算机网络|87|微机原理及应用|68|电路|72|
-|现代控制理论|74|信号系统|86|专业外语|74|
-|模拟电路|89|运筹学|92|||
+### Reference3
+[^1]:[wechaty](https://github.com/wechaty/wechaty)
+[^2]:[espruino](https://www.espruino.com/)
+[^3]:[micropython](https://micropython.org/)
+[^4]:[codecraft](https://ide.tinkergen.com/)
+[^5]:[blockly](https://developers.google.cn/blockly?hl=zh-cn)
+[^6]:[mixly](https://mixly.readthedocs.io/zh-cn/latest)
+[^7]:[gollum](https://github.com/gollum/gollum)
